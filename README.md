@@ -20,7 +20,7 @@ This project requires Python 3.7 and the following Python libraries installed:
 * matplotlib
 * scikit-learn
 
-You will also need to have the software installed to run and execute a Jupyter Notebook
+You will also need to have the software installed to run and execute a Jupyter Notebook.
 
 If you do not have Python installed yet, it is highly recommended that you install the `Anaconda distribution` of Python, which already has the above packages and more included. Make sure that you select the Python 3.7 installer and not the Python 2.x installer.
 
